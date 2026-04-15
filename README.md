@@ -4,7 +4,7 @@
 
 A lightweight Linux container runtime in C. Implements a long-running supervisor daemon, namespace-isolated containers, pipe-based log capture with a bounded buffer, a UNIX socket control plane, and a kernel module for per-container memory enforcement.
 
-**Team:** [Your Name] (SRN: XXXXXXX) · [Partner Name] (SRN: XXXXXXX)
+**Team:** Niraj Kumar (SRN: PES2UG24AM046) ·  Dhruv jagadeesh (SRN: PES2UG24AM053)
 
 ---
 
